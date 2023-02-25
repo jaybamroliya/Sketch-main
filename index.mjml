@@ -1,7 +1,7 @@
 <mjml>
   <mj-head>
     <mj-attributes>
-      <mj-button href="https://sidhant.ml" />
+      <mj-button href="https://jaybamroliya.ml" />
     </mj-attributes>
     <mj-title> Sketch Email</mj-title>
     <mj-raw>
@@ -17,7 +17,7 @@
     <mj-section>
       <mj-column>
         <mj-text align="center" font-size="12px" color="#969696">
-         <a style="color:#969696;text-decoration:none!important;" href="https://sidhant.ml"  target="_blank" > View this email in your browser </a> 
+         <a style="color:#969696;text-decoration:none!important;" href="https://jaybamroliya.ml"  target="_blank" > View this email in your browser </a> 
         </mj-text>
       </mj-column>
     </mj-section>
@@ -222,7 +222,7 @@
     <mj-section>
       <mj-column>
         <mj-text align="center" color="#969696" line-height="18px" font-size="12px">You received this email because you subscribed via the Sketch website. <br>
-          <a style="font-weight:bold;color:#606060;text-decoration:none!important;" href="https://sidhant.ml" target="_blank"> Choose which emails you receive </a> or <a style="font-weight:bold;color:#606060;text-decoration:none!important;" href="https://sidhant.ml" target="_blank"> unsubscribe from all our emails. </a> <br> <br>
+          <a style="font-weight:bold;color:#606060;text-decoration:none!important;" href="https://jaybamroliya.ml" target="_blank"> Choose which emails you receive </a> or <a style="font-weight:bold;color:#606060;text-decoration:none!important;" href="https://jaybamroliya.ml" target="_blank"> unsubscribe from all our emails. </a> <br> <br>
           Sketch B.V., Flight Forum 40 Ground floor, 5657 DB, Eindhoven, the Netherlands
         </mj-text>
 
@@ -235,8 +235,8 @@
         </mj-social>
 
         <mj-text align="center" color="#969696" line-height="18px" font-size="12px">
-          <a style="color:#969696;text-decoration:none!important;" href="https://sidhant.ml" target="_blank">Forward this email to a friend</a> <br>
-          <a style="color:#969696;text-decoration:none!important;" href="https://sidhant.ml" target="_blank"> Privacy Statement </a>
+          <a style="color:#969696;text-decoration:none!important;" href="https://jaybamroliya.ml" target="_blank">Forward this email to a friend</a> <br>
+          <a style="color:#969696;text-decoration:none!important;" href="https://jaybamroliya.ml" target="_blank"> Privacy Statement </a>
         </mj-text>
       </mj-column>
     </mj-section>
